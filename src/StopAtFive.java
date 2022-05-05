@@ -9,13 +9,19 @@ public class StopAtFive {
 
             if (userNum !=5){
                 continue;
-            }
-
-            if (userNum == 5){
-                System.out.println("Process finished with exit code 0");
+            }else {
+                System.out.println("You picked 5 so it's over!");
                 break;
-            }
-    } 
-}
+                }
+        } 
+    }
 }
 
+            // if (userNum !=5){
+            //     continue;
+            // }
+
+            // if (userNum == 5){
+            //     System.out.println("You picked 5 so it's over!");
+            //     break;
+            // }
