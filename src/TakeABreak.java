@@ -10,6 +10,6 @@ public class TakeABreak {
             if (userInput.equals("yes")){
                 break;
             }
-    } 
-}
+        } 
+    }
 }
