@@ -17,18 +17,3 @@ public class CountToEleven {
         }
     }
 }
-
-
-
-
-        
-        
-//         if (start >12){
-//             System.out.println("Your number is greater than 11. Please pick another number.");
-//         }else{
-//         for (int i = start; i < end; i++){
-//             System.out.println(i);
-//             }
-//         }
-//     }
-// }
